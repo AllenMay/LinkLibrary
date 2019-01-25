@@ -6,3 +6,6 @@
 
 ## freeCodeCamp
 - [freeCodeCamp YouTube Channel](https://www.youtube.com/freecodecamp)  
+  
+  ### Playlists
+  - [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=F0WoVEr0-44&list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
