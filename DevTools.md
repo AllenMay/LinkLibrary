@@ -1,6 +1,9 @@
 # DevTools  
 
-## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Google Developers
+## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Google Developers  
+- [Local Overrides](https://developers.google.com/web/updates/2018/01/devtools#overrides)  
+
+-------
 
 - [Chrome DevTools: The five most popular DevTools tips from 2018](https://umaar.com/dev-tips/190-five-popular-2018-tips/) - [Umar Hansa](https://umaar.com/) (1/8/2019)
 - [A list of cool Chrome DevTools Tips and Tricks](https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel) - [Flavio Copes](https://flaviocopes.com/) (3/20/2018)  
