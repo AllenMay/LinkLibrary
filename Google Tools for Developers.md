@@ -1,6 +1,7 @@
 # [Google Tools for Developers](https://developers.google.com/web/tools/)
 
 ## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)  
+[My notes on DevTools](./DevTools.md)  
 The Chrome DevTools are a set of web authoring and debugging tools built into Google Chrome. Use the DevTools to iterate, debug and profile your site.
 
 ## [Lighthouse](https://developers.google.com/web/tools/lighthouse/)  
