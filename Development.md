@@ -15,3 +15,6 @@
 
 ## Webpack
 - [wpk: A Friendly, Intuitive, and Unofficial CLI for webpack](https://github.com/wpk-cli/wpk) 
+
+## Dependency Injection  
+- [Dependency Injection With Koin](https://www.raywenderlich.com/9457-dependency-injection-with-koin) - Pablo L. Sordo Martinez - 2019-02-01
