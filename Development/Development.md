@@ -13,7 +13,7 @@
 ## Presenting / Tech Talks
 - [Preparing for a Tech Talk, Part 1: Motivation](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/)
 
-## Webpack
+## [Webpack](https://webpack.js.org/) Topics
 - [wpk: A Friendly, Intuitive, and Unofficial CLI for webpack](https://github.com/wpk-cli/wpk) 
 
 ## Dependency Injection  
