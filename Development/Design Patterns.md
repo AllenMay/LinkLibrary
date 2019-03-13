@@ -41,7 +41,7 @@ three types of design patterns:
 
 ---
 
-## A pattern has four essential elemnts:
+## A pattern has four essential elements:
   - Pattern Name  
   - Problem  
   - Solution  
