@@ -41,6 +41,15 @@ namespace LinqGrouping.Controllers
 
 The grouping is handled with the LINQ group by statement, and here we choose the Genre field as our key to group by. Now we select our subsets into the Group object, which will consist of a key and a collection of each book which matches this key. The end result is a List<Group<string, Book>>, which makes it easy for us to output as HTML:  
 ```
+@using LinqGrouping.Models
+@model List<Group<string, Book>>
+
+@{
+    ViewBag.Title = "LINQ Grouping";
+}
+
+<h2>Grouping books by Genre</h2>
+
 <table>
 <thead><tr><th>Author</th><th>Title</th><th>Price</th></tr></thead>
 <tbody>
