@@ -1,5 +1,8 @@
 # C\# / Razor / .Net
 
+- [C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index)  
+  This section provides reference material about C# keywords, operators, special characters, preprocessor directives, compiler options, and compiler errors and warnings.
+
 ## [Tutorial: Read related data with EF in an ASP.NET MVC app](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/reading-related-data-with-the-entity-framework-in-an-asp-net-mvc-application)  
   posted on January 21, 2019  
 
