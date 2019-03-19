@@ -6,3 +6,7 @@
 
 ## Architecture  
 - [A Floor Plan Design Using CSS Grid](https://codepen.io/oliviale/full/moLrBq)  
+
+## Abstract Visual  
+- [Art of Noise #8 - Noisy Blobs](https://codepen.io/Tibixx/full/bZLGbo)  
+  An organic animation that can be adjusted by the user.  
