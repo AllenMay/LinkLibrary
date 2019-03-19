@@ -1,7 +1,9 @@
 # Online Tools
 
 ## CSS Selectors Cheatsheet  
-- [CSS selectors cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)  
+- [CSS selectors cheatsheet & details](https://medium.com/design-code-repository/css-selectors-cheatsheet-details-9593bc204e3f)  
+  - [Interactive Game](https://frontend30.com/css-selectors-cheatsheet/)  
+  - [Download](https://www.dropbox.com/s/h2hni9o1m1di989/CSS%20selectors%20cheatsheet.pdf?dl=0)  
 
 ## General Topics  
 
