@@ -6,6 +6,11 @@
   - [Download](https://www.dropbox.com/s/h2hni9o1m1di989/CSS%20selectors%20cheatsheet.pdf?dl=0)  
 
 ## General Topics  
+- [Geenes](https://geenes.app/)  
+  A tool to create harmonious color themes with code and sketch file export.  
+  
+- [Flexulator](https://www.flexulator.com/)  
+  A tool to visualize flexbox space distribution. By Nick Lyons.  
 
 - [SVG Gradient Map Filter](https://yoksel.github.io/svg-gradient-map/)  
   This tool creates SVG Gradient Map Filter from given colors. You can use ready palettes or edit them and get yours.
