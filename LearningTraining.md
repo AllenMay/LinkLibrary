@@ -9,3 +9,13 @@
   
   ### Playlists
   - [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=F0WoVEr0-44&list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
+
+
+## Workshops  
+- [Let’s build a full stack MongoDB, React, Node and Express (MERN) app](https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274)  
+  by jelo rivera Sep 12, 2018
+
+
+
+
+- []()
