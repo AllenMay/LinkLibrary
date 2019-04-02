@@ -6,6 +6,7 @@ three types of design patterns:
 - **Structural patterns** deal with the structure of classes and code.
 - **Behavioral patterns** deal with the behavior of objects.
 
+* <a href="#singleton">Singleton</a>
 
 ## [Builder Pattern](https://en.wikipedia.org/wiki/Builder_pattern)  
   - [List Builder Pattern – Unit Testing Object Hierarchies in C#](http://www.luckingtechnotes.com/list-builder-pattern-unit-testing-object-hierarchies-in-c/)  
@@ -126,7 +127,7 @@ three types of design patterns:
 ### Proxy (207)  
   Provide a surrogate or placeholder for another object to control access to it.  
   
-### Singleton (127)  
+### <span id="singleton">Singleton</span> (127)  
   Ensure a class only has one instance, and provide a global point of access to it.  
   - p.57 *“There's even a design pattern, Singleton, for managing well-known, one-of-a-kind objects like this.”*  
 
