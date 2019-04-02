@@ -6,7 +6,7 @@ three types of design patterns:
 - **Structural patterns** deal with the structure of classes and code.
 - **Behavioral patterns** deal with the behavior of objects.
 
-* <a href="#singleton">Singleton</a>  
+* <a href="#singleton-127">Singleton</a>  
 * <a href="#abstract-factory">Abstract Factory</a>  
 
 ## [Builder Pattern](https://en.wikipedia.org/wiki/Builder_pattern)  
