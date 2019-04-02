@@ -6,7 +6,8 @@ three types of design patterns:
 - **Structural patterns** deal with the structure of classes and code.
 - **Behavioral patterns** deal with the behavior of objects.
 
-* <a href="#singleton">Singleton</a>
+* <a href="#singleton">Singleton</a>  
+* <a href="#abstract-factory">Abstract Factory</a>  
 
 ## [Builder Pattern](https://en.wikipedia.org/wiki/Builder_pattern)  
   - [List Builder Pattern – Unit Testing Object Hierarchies in C#](http://www.luckingtechnotes.com/list-builder-pattern-unit-testing-object-hierarchies-in-c/)  
@@ -50,7 +51,7 @@ three types of design patterns:
 
 ## *The Catalog of Design Patterns* Page 20  
 
-### Abstract Factory (p. 87)  
+### <span id="abstract-factory">Abstract Factory</span> (p. 87)  
   Provide an interface for creating families of related or dependent objects without specifying their concrete classes.  
   - p.58 *“Factories and products are the key participants in the Abstract Factory (87) pattern. This pattern captures how to create families of related product objects without instantiating classes directly. It's most appropriate when the number and general kinds of product objects stay constant, and there are differences in specific product families. We choose between families by instantiating a particular concrete factory and using it consistently to create products thereafter. We can also swap entire families of products by replacing the concrete factory with an instance of a different one. The Abstract Factory pattern's emphasis on families of products distinguishes it from other creational patterns, which involve only one kind of product object.”*  
 
