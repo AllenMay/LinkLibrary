@@ -11,6 +11,16 @@
 - [Draw a circle - Create a circle on a google map using a point and a radius](https://www.mapdevelopers.com/draw-circle-tool.php)  
 
 ## General Topics  
+- [Patrick Gillespie](http://patorjk.com/)  
+  - [Gradient Image Generator](http://patorjk.com/gradient-image-generator/)  
+  - [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main)  
+  - [Old School Gaming Filters](http://patorjk.com/old-school-gaming-filters/)  
+  - [Text Color Fader](http://patorjk.com/text-color-fader/)  
+  - [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)  
+  - [Typing Speed Test](http://patorjk.com/typing-speed-test/)  
+  - [Social Media Showdown](http://patorjk.com/showdown/#l=http%3A%2F%2Fflickr.com%2F&r=http%3A%2F%2Fimgur.com%2F)  
+  - [Years Spent Watching YouTube](http://patorjk.com/years-spent-watching-youtube/#/main)  
+
 - [PWA Builder](https://www.pwabuilder.com/)  
   Quickly and easily turn your website into an app!  
   
