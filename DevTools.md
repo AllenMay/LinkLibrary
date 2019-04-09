@@ -9,5 +9,11 @@
 - [Quickly clear all the data from a website](https://umaar.com/dev-tips/197-clear-site-data/) - (4/9/2019)  
 
 ## Other  
-- [A list of cool Chrome DevTools Tips and Tricks](https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel) - [Flavio Copes](https://flaviocopes.com/) (3/20/2018)  
-- [Improve Your Debugging Skills with Chrome DevTools](https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools) - [Telerik](https://www.telerik.com/) (3/21/2018)  
+
+- [Getting creative with the Console API!](https://areknawo.com/getting-creative-with-the-console-api/)  
+  by [Areknawo](https://areknawo.com/) (4/6/2019)  
+- [A list of cool Chrome DevTools Tips and Tricks](https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel)  
+  by [Flavio Copes](https://flaviocopes.com/) (3/20/2018)  
+
+- [Improve Your Debugging Skills with Chrome DevTools](https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools)  
+  by [Telerik](https://www.telerik.com/) (3/21/2018)  
