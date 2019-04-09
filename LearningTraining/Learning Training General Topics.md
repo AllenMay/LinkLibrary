@@ -1,4 +1,4 @@
-# Learning / Training
+# Learning / Training General Topics
 
 - [A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) by Flavio Copes May 14, 2018
 - [Class Central](https://www.class-central.com/)  
