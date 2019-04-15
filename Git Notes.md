@@ -74,3 +74,20 @@ for branch in `git branch -r --no-merged | grep -v HEAD`; do echo -e `git show -
 ~~~
 git diff mybranch master -- myfile.cs
 ~~~
+
+## Git Stash
+- [Useful tricks you might not know about Git stash](https://medium.freecodecamp.org/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a) Srebalaji Thirumalai Jan 26, 2018  
+  - git stash save “Your stash message”.
+  - git stash save -u  
+      or  
+    git stash save --include-untracked  
+  - git stash list  
+  - git stash apply stash@{1}  
+  - git stash pop stash@{1}  
+  - git stash show -p  
+  - git stash show stash@{1}  
+  - git stash branch <name> stash@{1}  
+  - git stash drop stash@{1}  
+  - 
+
+
