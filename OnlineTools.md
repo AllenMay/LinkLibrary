@@ -11,6 +11,8 @@
 - [Draw a circle - Create a circle on a google map using a point and a radius](https://www.mapdevelopers.com/draw-circle-tool.php)  
 
 ## General Topics  
+- [HTML/CSS/JS Cleaner](https://html-cleaner.com)  
+  - [Replace HTML Tables with \<div\>s](https://html-cleaner.com/features/replace-html-table-tags-with-divs/)  
 - [Patrick Gillespie](http://patorjk.com/)  
   - [Gradient Image Generator](http://patorjk.com/gradient-image-generator/)  
   - [Keyboard Layout Analyzer](http://patorjk.com/keyboard-layout-analyzer/#/main)  
