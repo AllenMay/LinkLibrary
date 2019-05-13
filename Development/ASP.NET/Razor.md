@@ -14,6 +14,6 @@
    - @{}  
  - Content  
    - @:  
-   - <text> </text>  
+   - <text> </text>  - Indicates multiple lines of content
  - Comments  
    - @*  *@  
