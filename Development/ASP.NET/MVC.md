@@ -2,7 +2,15 @@
 
 ## MVC Rules
   - Controllers are the only component that should ever create an instance of a model  
+  - ASP.NET MVC is a stateless architecture, that means it does not generally transmit any information other than form post values in between requests.
+---
+## [ViewData VS ViewBag Vs TempData in MVC](https://www.c-sharpcorner.com/blogs/viewdata-vs-viewbag-vs-tempdata-in-mvc1)
+
+- **TempData**
+  - TempData is a dictionary which is derived from TempDataDictionary class. TempData is stored data just like live session for short time. TempData keeps data for the time of HTTP Request, which means that it holds data between two consecutive requests. TempData helps us to transfer data between controllers or between actions. TempData internally use Session variables. Note that TempData is only work during the current and subsequent request. It is generally used to store one time messages. With the help of the TempData.Keep() method we can keep value in TempData object after request completion.  
   
+- **ViewData** / **ViewBag**  
+  - ViewData and ViewBag are used for the same purpose --  to transfer data from controller to view.  ViewData is nothing but a dictionary of objects and it is accessible by string as key. ViewData is a property of controller that exposes an instance of the ViewDataDictionary class. ViewBag is very similar to ViewData. ViewBag is a dynamic property (dynamic keyword which is introduced in .net framework 4.0). ViewBag is able to set and get value dynamically and able to add any number of additional fields without converting it to strongly typed. ViewBag is just a wrapper around the ViewData.  
 ---
 
 ## [Tutorial: Read related data with EF in an ASP.NET MVC app](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/reading-related-data-with-the-entity-framework-in-an-asp-net-mvc-application)  
