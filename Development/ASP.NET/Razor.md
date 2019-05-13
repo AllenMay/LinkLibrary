@@ -7,3 +7,13 @@
  - just write code and markup - don't think about it  
  - @ indicates code  
  - standard language keywords  
+## Razor "keywords"
+ - Code  
+   - @  
+   - @()  
+   - @{}  
+ - Content  
+   - @:  
+   - <text> </text>  
+ - Comments  
+   - @*  *@  
