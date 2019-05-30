@@ -16,6 +16,14 @@ You can use this method to inspect whether a section has been defined in the ref
 
 **_LayoutWithSidebar.cshtml**
 ~~~
+@section Featured {
+  @RenderSection("Featured", required: false)
+}
+
+@section Scripts {
+  @RenderSection("Scripts", required: false)
+}
+
 <div class="sidebar">
   @RenderSection("sidebar")
 </div>
@@ -30,10 +38,14 @@ You can use this method to inspect whether a section has been defined in the ref
 **Index.cshtml**  
 ~~~
 @section Featured {
-  
+  <section class="Featured">
+    <div class="content-wrapper">
+      This is some featured content!
+    </div>
+  </section>
 }
 
 @section Scripts {
-
+  <!-- This content will be rendered in the Scripts section -->
 }
 ~~~
