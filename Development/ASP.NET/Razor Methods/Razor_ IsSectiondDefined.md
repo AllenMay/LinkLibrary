@@ -13,3 +13,27 @@ You can use this method to inspect whether a section has been defined in the ref
 }
 @
 ~~~
+
+**_LayoutWithSidebar.cshtml**
+~~~
+<div class="sidebar">
+  @RenderSection("sidebar")
+</div>
+
+<div class="content">
+  @RenderBody()
+</div>
+
+
+~~~
+
+**Index.cshtml**  
+~~~
+@section Featured {
+  
+}
+
+@section Scripts {
+
+}
+~~~
