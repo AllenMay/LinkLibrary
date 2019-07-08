@@ -10,6 +10,7 @@ Type | DB | Frontend | Backend | Web Server  | Bundler
   |  | React| Node | Express | | Webpack
 
 ## Articles  
+- [The Rise And Fall Of The Full Stack Developer](https://techcrunch.com/2014/11/08/the-rise-and-fall-of-the-full-stack-developer/) Peter Yared @peteryared Nov 8, 2014  
 - [The 2019 Roadmap To Fullstack Web Development](https://medium.com/codingthesmartway-com-blog/the-2019-roadmap-to-fullstack-web-development-1bba67a54ae8)  
   Sebastian Eschweiler Nov 14, 2018  
   
