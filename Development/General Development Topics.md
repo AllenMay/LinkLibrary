@@ -22,6 +22,8 @@
 - [wpk: A Friendly, Intuitive, and Unofficial CLI for webpack](https://github.com/wpk-cli/wpk) 
 
 ## Dependency Injection  
+- [Node.js advanced pattern: Dependency Injection Container](https://levelup.gitconnected.com/node-js-advanced-pattern-dependency-injection-container-fc58a1946638) - Iskander Samatov - 2019-06-29  
+
 - [Dependency Injection With Koin](https://www.raywenderlich.com/9457-dependency-injection-with-koin) - Pablo L. Sordo Martinez - 2019-02-01  
 - [Dependency Injection in Android with Dagger 2 and Kotlin](https://www.raywenderlich.com/262-dependency-injection-in-android-with-dagger-2-and-kotlin) - Dario Coletto & Joe Howard - 2017-12-13  
 
