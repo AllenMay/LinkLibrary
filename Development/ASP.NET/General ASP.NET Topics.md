@@ -5,4 +5,4 @@
 
 ## Articles  
 - [Building GraphQL APIs with ASP.NET Core](https://medium.com/volosoft/building-graphql-apis-with-asp-net-core-419b32a5305b) - by Alper Ebiçoğlu Feb 15th 2019
-- [State Management Concept In ASP.NET](https://www.c-sharpcorner.com/UploadFile/b926a6/state-management-concept-in-Asp-Net/) - by Rakesh Oct 12 2015
+- [State Management in ASP.NET Core MVC](https://code-maze.com/state-management-in-asp-net-core-mvc/) - by Code Maze Jun 17, 2019
