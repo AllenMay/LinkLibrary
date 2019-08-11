@@ -128,3 +128,12 @@ OOP opens doors to these related topics:
 - Design Patterns
 - Domain Driven Design
 - .NET apps
+
+## Additional Pluralsight Courses
+
+- Defensive Coding in C#
+- Clean Code: Writing Code for Humans
+- C# Interfaces
+- Design Patterns On-Ramp
+- C# Best Practices: Improving on the Basics
+- C# Best Practices: Collections and Generics
