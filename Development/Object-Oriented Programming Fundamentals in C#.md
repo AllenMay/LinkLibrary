@@ -106,3 +106,15 @@ __Leveraging reuse__
 - Building reusable classes / components
 - Defining interfaces
 
+
+## Four Pillars of OOP
+Abstraction | Encapsulation | Inheritance | Polymorphism  
+
+- Abstraction describes an entity in simple terms
+- Encapsulation allows hiding the data in implementation in the class
+- Inheritance allows derived or child classes to use the parent classes  
+  - Inheritance polymorphism 
+- Polymorphism 
+  - Interface-based polymorphism
+  
+  
