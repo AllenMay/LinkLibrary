@@ -84,3 +84,25 @@ __Understanding Interfaces__
 ## Extension Methods
 (top)
 
+
+## Final Words and Next Steps
+__Indentifying Classes__  
+When given a specification for a feature or a new application start by identifiying the classes from the requirements source specification.
+- __Represents business entities__ - Object-oriented programing represents the entities and concepts of an application as a set of classes. 
+- __Defines properties (data)__ - Each class has properties that define the data each object will manage. 
+- __Defines methods (action/behavior)__ - Each class has methods, which are the actions and behaviors that each object can perform. Then analyze the classes you identified and separate responsibilites as needed.
+
+__Separating responsibility__
+- __Minimizes coupling__ - Minimize coupling by ensuring each class has a single purpose.
+- __Maximies cohesion__ - Maximize cohesion by reviewing the properties and methods of each class to confirm each one belongs to that class.
+- __Simplifies maintenance__ - Single-focus classes simplify maintenance and improve testablity
+- __Improves testability__ - 
+
+__Establishing relationships__
+- Defines how objects work together to perform the operations of the application
+
+__Leveraging reuse__
+- Involves extracting commonality
+- Building reusable classes / components
+- Defining interfaces
+
