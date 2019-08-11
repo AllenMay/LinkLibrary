@@ -69,7 +69,16 @@ __Design Pattern:__ Repository Pattern
 
 
 ## Interfaces
-(top)
+__Understanding Interfaces__  
+- Class Interface
+- Interface Metaphors
+- Defining an Interface
+- Implementing and Interface
+- Interface-based Polymorphism  
+ __Benefits of Interfaces and Polymorphism__  
+   - Strong typing
+   - Defines commonality among unrelated classes
+   - Aids in building generalized utility methods with class-unique functionality
 
 
 ## Extension Methods
