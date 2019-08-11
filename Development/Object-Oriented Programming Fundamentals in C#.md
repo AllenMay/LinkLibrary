@@ -35,11 +35,11 @@ __Simplifies Maintenance__
   - Improves Testability  
 
 __Establishing Relationships__  
-  - Define how objects work together to perform the operations of the application
-    - Defining relationships
-    - Types of relationships
-    - Collaboration (“uses a” relationship)
-    - Composition (“has a” relationship)  
+  - Define how objects work together to perform the operations of the application  
+    - Defining relationships  
+    - Types of relationships  
+    - Collaboration (“uses a” relationship)  
+    - Composition (“has a” relationship)
       - Aggregation is a special type of composition where by the component parts do not exist except as part of the composition  
     - Composition: References
     - Composition: Ids
@@ -60,18 +60,18 @@ __Design Pattern:__ Repository Pattern
 
 
 
-Encapsulation
+## Encapsulation
 (top)
 
 
-Inheritance 
+## Inheritance 
 (top)
 
 
-Interfaces
+## Interfaces
 (top)
 
 
-Extension Methods
+## Extension Methods
 (top)
 
