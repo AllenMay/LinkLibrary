@@ -118,3 +118,13 @@ Abstraction | Encapsulation | Inheritance | Polymorphism
   - Interface-based polymorphism
   
   
+## OOP Is the Foundation
+
+OOP opens doors to these related topics:
+- Clean Code
+- Defnsive Coding
+- Iterative Agile
+- API
+- Design Patterns
+- Domain Driven Design
+- .NET apps
