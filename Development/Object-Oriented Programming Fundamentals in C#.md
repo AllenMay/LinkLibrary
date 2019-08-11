@@ -4,7 +4,7 @@
 ## Interfaces  
 ## Extension Methods  
   
-Notes from “Object-Oriented Programming Fundamentals in C#”   
+Notes from “[Object-Oriented Programming Fundamentals in C#](https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp/table-of-contents)”   
 by Deborah Kurata ( Pluralsight )  
   
 __Four Pillars of OOP__  
