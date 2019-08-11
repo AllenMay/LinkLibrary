@@ -5,8 +5,10 @@
 
 -------
 ## [Umar Hansa](https://umaar.com/) - "Dev Tools" Newsletter  
-- [The five most popular DevTools tips from 2018](https://umaar.com/dev-tips/190-five-popular-2018-tips/) - (1/8/2019)  
+- [Copy and extract all the CSS for an element on the page](https://umaar.com/dev-tips/201-extract-element-styles/) - (8/11/2019)
 - [Quickly clear all the data from a website](https://umaar.com/dev-tips/197-clear-site-data/) - (4/9/2019)  
+- [The five most popular DevTools tips from 2018](https://umaar.com/dev-tips/190-five-popular-2018-tips/) - (1/8/2019)  
+
 
 ## Other  
 
