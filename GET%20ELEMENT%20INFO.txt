@@ -1,0 +1,80 @@
+// LIST SELECT VALUES
+$("select").each(function(){
+    console.log($(this).attr('value'));
+});
+
+// LIST SELECT ID's
+$("select").each(function(){
+    console.log($(this).attr('id'));
+});
+
+// LIST TEXT FROM SELECTED OPTIONS 
+$("select option:selected").each(function(){
+    console.log($(this).text());
+});
+
+//LIST ID/VALUE/TEXT OF ALL SELECT ELEMENTS
+$("select").each(function(){
+    console.log($(this).attr('id') + ' = ' + $('option:selected',this).val() + " = " +$('option:selected',this).text());
+});
+
+// LIST ID/VALUE OF ALL SELECT ELEMENTS
+$("select option:selected").each(function(){
+    console.log($(this).attr('id') + ' = ' + $(this).val() );
+});
+
+// LIST HREF LINK WITH THE TITLE OF THE SPAN
+$("a").each(function(){
+    console.log($(this).attr('href') + ' = ' + $("span",this).attr("title") );
+});
+
+
+// 7/22/2019
+// LIST SELECTED REPORT PARAMETERS - COPY FRIENDLY
+item = "";
+$("select").each(function(){
+    item = item + $(this).attr('id') + ' = ' + $('option:selected',this).val() + " = " +$('option:selected',this).text()+"\n";
+});
+console.log(item);
+
+// 7/22/2019
+// LIST SELECTED REPORT PARAMETERS FOR USER STORIES - COPY FRIENDLY
+item = "REPORT: " + $('h2').text() + "\nPARAMETERS USED TO RUN REPORT:\n";
+$("select").each(function(){
+    item = item + "\t"+$(this).attr('id') + ": " +$('option:selected',this).text()+"\n";
+});
+item = item.replace('ProductId','Product');
+item = item.replace('ReportProviderSystems_0__IpmProviderSystemId','Provider System');
+item = item.replace('ReportType','Report Type');
+item = item.replace('ReportPeriodStartDate','Report Period Start Date');
+item = item.replace('ReportPeriodEndMonth','Report Period End Month');
+item = item.replace('ReportPeriodEndYear','Report Period End Year');
+item = item.replace('ReportRunMonth','Report Period');
+item = item.replace('ReportRunYear','Report Year');
+item = item.replace('HedisRunOut','HEDIS Claim Run Out');
+item = item.replace('HedisMethodologyYear','HEDIS Methodology Year');
+console.log(item);
+
+// 7/23/2019
+// GET ALL CONTRACT CONFIG
+item = "REPORT: " + $('h2').text() + "\nPARAMETERS USED TO RUN REPORT:\n";
+$("div.inputGroup div select").each(function(){
+    item = item + "\t"+$(this).attr('id') + ": " +$('option:selected',this).text()+"\n";
+});
+// item = item.replace('ProductId','Product');
+// item = item.replace('ReportProviderSystems_0__IpmProviderSystemId','Provider System');
+// item = item.replace('ReportType','Report Type');
+// item = item.replace('ReportPeriodStartDate','Report Period Start Date');
+// item = item.replace('ReportPeriodEndMonth','Report Period End Month');
+// item = item.replace('ReportPeriodEndYear','Report Period End Year');
+// item = item.replace('ReportRunMonth','Report Period');
+// item = item.replace('ReportRunYear','Report Year');
+// item = item.replace('HedisRunOut','HEDIS Claim Run Out');
+// item = item.replace('HedisMethodologyYear','HEDIS Methodology Year');
+console.log(item);
+
+
+
+$("form input:checkbox").each(function(){
+    console.log($(this).attr('value'));
+});

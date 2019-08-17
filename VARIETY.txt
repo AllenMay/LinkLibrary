@@ -1,0 +1,5 @@
+// jQuery REMOVE ERROR
+$("div").removeClass("has-error");
+
+// RUN CDP Incentive Reports
+$('#frmReport').submit();

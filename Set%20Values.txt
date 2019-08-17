@@ -1,0 +1,13 @@
+// PLUS ONE MINUS ONE QUALITY REPORT
+$("#ProductId option[value='100000']").attr("selected","selected").change();
+
+$("#ReportProviderSystems_0__IpmProviderSystemId option[value='100000']").attr("selected","selected").change();
+
+$("#ReportType option[value='1']").attr("selected","selected").change();
+
+$("#ReportRunMonth option[value='3']").attr("selected","selected").change();
+
+$("#ReportRunYear option[value='2017']").attr("selected","selected").change();
+
+// UNCHECK ALL CHECKBOXES
+$("input").prop('checked', false); 
