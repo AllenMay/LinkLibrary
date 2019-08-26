@@ -29,3 +29,20 @@ CLEAN CODE
    - Improves Predictablity
    - More Consistent
    - Reduces Bugs
+
+## Clean Code
+
+**Good code vs Bad code**  
+  - Bad code has a 'code smell'
+  - Write Good code following clean coding techniques
+  - Transform Bad code to Good code through refactoring
+  
+**Clean Code** has the following characteristics:
+  - Easy to read
+  - Clear intent
+  - Simple
+  - Minimal
+  - Thoughtfull
+  
+
+
