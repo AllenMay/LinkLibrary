@@ -44,5 +44,6 @@ CLEAN CODE
   - Minimal
   - Thoughtfull
   
-
+## Refactoring
+The act of restructuring code to make it clearer, cleaner, and testable, without changing its behavior is called Refactoring.
 
