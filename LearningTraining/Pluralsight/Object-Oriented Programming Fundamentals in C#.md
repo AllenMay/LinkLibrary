@@ -204,7 +204,7 @@ A. 1. Each part is responsible for a separate concern.
    2. Defining parts with minimal overlap.  
    3. Decomposing an application into parts.  
    
-Q. What is teh difference between a virtual and abstract method?  
+Q. What is the difference between a virtual and abstract method?  
 A. 1. An abstract method cannot have any code in it.  
    2. A virtual method has an implementation, but can be overriden.  
    3. An abstract method MUST be overridden in a derived class.  
@@ -217,6 +217,26 @@ A. Common practices for defining sets of classes and their relationships.
 
 Q. What is the difference between an abstract and concrete class?  
 A. Abstract classes don't allow construction using the new keyword.  
+
+Q. Which of the following defines a composition relationship?  
+A. Customer class "has a" set of Address objects.  
+
+Q. What is object-oriented programming?  
+A. Focusing on objects that interact cleanly with one another.  
+
+Q. What is a property?  
+A. Data managed by a class.  
+
+Q. A composition relationship between Class A and Class B can be implemented by:  
+A. Class A defining a property that references Class B.  
+
+Q. Implementing composition using an Id instead of a reference:  
+A. 1. Makes it easier to save the entity.  
+   2. Can make the entity retrieval more efficient.  
+   3. Minimizes coupling.  
+   
+Q. What is the purpose of the Override keyword?  
+A. Define a custom implementation of an inherited member.  
 
 
 
