@@ -137,3 +137,90 @@ OOP opens doors to these related topics:
 - Design Patterns On-Ramp
 - C# Best Practices: Improving on the Basics
 - C# Best Practices: Collections and Generics
+
+
+## Questions
+
+Q. What is encapsulation?  
+A. A way to hide the data and implementatino details within a class.
+
+Q. What is a constructor?  
+A. A special method named with the class name.  
+
+Q. What is a class?  
+A. A set of code that defines a type that represents an entity.  
+
+Q. What is an auto-implemented property?  
+A. A short-cut for creating a C# property with a hidden backing field.  
+
+Q. How cohesive should your classes be and why?  
+A. Maximize cohesion so class members relate to the class purpose.  
+
+Q. What is a static class?  
+A. A class that cannot be instantiated.  
+
+Q. How coupled should your classes be and why?  
+A. Minimize coupling to reduce dependencies between classes.  
+
+Q. What is an explicit interface?  
+A. A type defined with the interface keyword.  
+
+Q. Which of the following defines a collaboration relationship?  
+A. Customer Repository class "uses a" instance of the Customer class.  
+
+Q. What is a sealed class?  
+A. A class that cannot be extended with inheritance.  
+
+Q. What is the difference between a static method and an extension method?  
+A. An extension method has the "this" keyword as part of the first parameter.  
+
+Q. What does the Protected access modifier on a member do?  
+A. Allows the class and any class that inherits from it to access the member.  
+
+Q. When is a constructor executed?  
+A. When an object is created from a class using the new keyword.  
+
+Q. Which of the following defines an inheritance relationship?  
+A. Business Customer "is a" Customer.  
+
+Q. How is an explicit interface implemented in a class?  
+A. 1. Writing code for each of the interface members.  
+   2. Adding the interface name to the class signature.  
+   
+Q. What is an implicit class interface?  
+A. The set of plublic members defined in a class.  
+
+Q. What is an object?  
+A. An instance of a class.  
+
+Q. Which syntax creates a new object from the Customer class?  
+A. Customer currentCustomer = new Customer();  
+
+Q. What is an extension method?  
+A. A static method that appears as a method on an existing class.  
+
+Q. What is the principle of Separation of Concerns?  
+A. 1. Each part is responsible for a separate concern.  
+   2. Defining parts with minimal overlap.  
+   3. Decomposing an application into parts.  
+   
+Q. What is teh difference between a virtual and abstract method?  
+A. 1. An abstract method cannot have any code in it.  
+   2. A virtual method has an implementation, but can be overriden.  
+   3. An abstract method MUST be overridden in a derived class.  
+
+Q. A collaboration relationship between Class A and Class B can be implemented by:  
+A. Class A creating and using an instance of Class B.  
+
+Q. What is a design pattern?  
+A. Common practices for defining sets of classes and their relationships.  
+
+Q. What is the difference between an abstract and concrete class?  
+A. Abstract classes don't allow construction using the new keyword.  
+
+
+
+
+
+
+
