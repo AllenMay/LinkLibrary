@@ -19,3 +19,5 @@
 
 - [Improve Your Debugging Skills with Chrome DevTools](https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools)  
   by [Telerik](https://www.telerik.com/) (3/21/2018)  
+
+- [Console cheat sheet for JavaScript developers](https://levelup.gitconnected.com/console-cheat-sheet-for-javascript-developers-21f0c49604d4) by [Javascript Jeep](https://levelup.gitconnected.com/@jagathishsaravanan) (11/2019)
