@@ -6,6 +6,5 @@
 
 ## LINQ
 - [When to use C# LINQ with Query Syntax over Method Syntax](https://michaelscodingspot.com/when-to-use-c-linq-with-query-syntax-over-method-syntax/) posted Feb 14, 2019
-- [Create a nested group](https://docs.microsoft.com/en-us/dotnet/csharp/linq/create-a-nested-group)  
-  posted on November 20, 2016
+- [Create a nested group](https://docs.microsoft.com/en-us/dotnet/csharp/linq/create-a-nested-group) posted November 20, 2016
 
