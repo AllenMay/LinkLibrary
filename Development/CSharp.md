@@ -6,5 +6,10 @@
 
 ## LINQ
 - [When to use C# LINQ with Query Syntax over Method Syntax](https://michaelscodingspot.com/when-to-use-c-linq-with-query-syntax-over-method-syntax/) posted Feb 14, 2019
+  - The awesome ‘let’ keyword
+  - Multiple data sources
+  - OrderBy with multiple orderings
+  - GroupBy vs group
+  - Joins are fun with query-syntax
 - [Create a nested group](https://docs.microsoft.com/en-us/dotnet/csharp/linq/create-a-nested-group) posted November 20, 2016
 
