@@ -33,7 +33,7 @@ DEFENSIVE CODING
      - More Consistent  
      - Reduces Bugs  
   
-## Clean Code
+## 1. Clean Code
 
 **Good code vs Bad code**  
   - Bad code has a 'code smell'
