@@ -19,7 +19,7 @@ __Q. What is the purpose of public key pinning?__
 The correct answer is to prevent man-in-the-middle attacks over TLS connections. Public key pinning allows the web application to "pin" the certificates that will be used in a TLS connection, preventing an attacker from impersonating the real server through the use of a fraudulently signed certificate.  
   
 __Q. What is the purpose of an authentication process?__  
-  - __A. To prove that a user is who they claims to be. __  
+  - __A. To prove that a user is who they claims to be.__  
   
 The correct answer is to prove that a user is who they claim to be. User authentication processes are intended to verify that a user is who he or she claims to be, uniquely distinguishing that individual from all other users of a system.  
   
@@ -82,18 +82,18 @@ Session fixation attacks
   
   
 __Q. Why is session management a particular concern in web applications?__  
-  - __A. HTTP is stateless. __  
+  - __A. HTTP is stateless.__  
   
 The correct answer is that HTTP is stateless. The concept of a session is not unique to web applications, but the fact that the underlying protocol (HTTP) is stateless makes it of particular concern when developing web applications.  
   
   
 __Q. How are session tokens typically used in web applications?__  
-  - __A. To reauthenticate the user and perform authorization activities. __  
+  - __A. To reauthenticate the user and perform authorization activities.__  
   
 The correct answer is to reauthenticate the user and perform authorization activities.  
   
 __Q. Which of the following is a best practice for session tokens?__  
-  - __A. Session tokens must be sent over a secure channel. __  
+  - __A. Session tokens must be sent over a secure channel.__  
   
 The correct answer is that session tokens must be sent over a secure channel. If we fail to do this, anyone who can view the network data can impersonate the user by reusing the session token.  
   
@@ -142,7 +142,7 @@ __Q. How can proper encryption controls defend our data at rest?__
   
   
 __Q. What is the problem with using statistical random number generators?__  
-  - __A. Statistical random number generators do not generate cryptographically secure random values. __  
+  - __A. Statistical random number generators do not generate cryptographically secure random values.__  
   
 The correct answer is that statistical random number generators do not generate cryptographically secure random values. The reason is that the values produced are generated from a statistical method rather than using true random sources, which is required for cryptographic methods.  
   
