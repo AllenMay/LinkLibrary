@@ -50,13 +50,19 @@ DEFENSIVE CODING
 ## Refactoring
 The act of restructuring code to make it clearer, cleaner, and testable, without changing its behavior is called Refactoring.
 
+---  
 
+## Defending Your Methods Part 1
 
-
-
-
-
-
+Clean, Testable, Predictable Methods  
+- Clear Purpose  
+- Good Name  
+- Focused Code  
+- Short Length (recommended length: number of lines that fit on a screen) 
+- Automated Code Test   
+- Predictable Result  
+  
+  
 
 
 
