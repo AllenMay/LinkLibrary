@@ -14,7 +14,7 @@ Adaptive Algorithms
 - PBKDF2  
   
 __Q. What is the purpose of public key pinning?__  
-  - __A. To prevent man-in-the-middle attacks over TLS connections. __  
+  - __A. To prevent man-in-the-middle attacks over TLS connections.__  
   
 The correct answer is to prevent man-in-the-middle attacks over TLS connections. Public key pinning allows the web application to "pin" the certificates that will be used in a TLS connection, preventing an attacker from impersonating the real server through the use of a fraudulently signed certificate.  
   
@@ -29,7 +29,7 @@ __Q. Which of the following are adaptive password storage algorithms?__
 The correct answer is PBKDF2 and Bcrypt. These adaptive password storage algorithms have been specifically designed to be very computationally intensive, there by making the recovery of passwords very difficult.  
   
 __Q. Which of the following are ways that developers inadvertently reveal user credential information?__  
-  - __A. Login failure, password reset, user creation, and lockout messages __  
+  - __A. Login failure, password reset, user creation, and lockout messages__  
   
 The correct answer is login failure, password reset, user creation and lockout messages. For example, developers may inadvertently reveal user credential information, such as the username or email address, through various error messages that the application displays.  
   
