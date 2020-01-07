@@ -15,21 +15,24 @@ WHAT IS DEFENSIVE CODING?
 
 The process of restructuring your code without changing its behavior is called **Refactoring**; the cleaner your code, the easier it is to understand, maintain, and test. 
 
-CLEAN CODE  
-  - Improves Compreshension
-  - Simplifies Maintenance
-  - Reduces Bugs
-  
- TESTABLE CODE + UNIT TESTS
-   - Improves Quality
-   - Confirms Maintenance
-   - Reduces Bugs
-   
- VALIDATION + EXCEPTION HANDLING
-   - Improves Predictablity
-   - More Consistent
-   - Reduces Bugs
+DEFENSIVE CODING  
+---  
 
+  CLEAN CODE  
+    - Improves Compreshension  
+    - Simplifies Maintenance  
+    - Reduces Bugs  
+  
+   TESTABLE CODE + UNIT TESTS  
+     - Improves Quality  
+     - Confirms Maintenance  
+     - Reduces Bugs  
+  
+   VALIDATION + EXCEPTION HANDLING  
+     - Improves Predictablity  
+     - More Consistent  
+     - Reduces Bugs  
+  
 ## Clean Code
 
 **Good code vs Bad code**  
@@ -46,4 +49,26 @@ CLEAN CODE
   
 ## Refactoring
 The act of restructuring code to make it clearer, cleaner, and testable, without changing its behavior is called Refactoring.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
