@@ -18,17 +18,17 @@ The process of restructuring your code without changing its behavior is called *
 DEFENSIVE CODING  
 ---  
 
-  CLEAN CODE  
+  __CLEAN CODE__  
     - Improves Compreshension  
     - Simplifies Maintenance  
     - Reduces Bugs  
   
-   TESTABLE CODE + UNIT TESTS  
+   __TESTABLE CODE + UNIT TESTS__  
      - Improves Quality  
      - Confirms Maintenance  
      - Reduces Bugs  
   
-   VALIDATION + EXCEPTION HANDLING  
+   __VALIDATION + EXCEPTION HANDLING__  
      - Improves Predictablity  
      - More Consistent  
      - Reduces Bugs  
