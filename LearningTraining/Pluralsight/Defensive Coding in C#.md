@@ -62,12 +62,29 @@ Clean, Testable, Predictable Methods
 - Automated Code Test   
 - Predictable Result  
   
-  
+---  
 
 
+## Guard Clauses  
+Examples:  
 
+Check for value:  
+``if (string.IsNullOrWhiteSpace(goalSteps)) throw new ArgumentException("Goal must be entered", "goalSteps);  ``
+``if (string.IsNullOrWhiteSpace(actualSteps)) throw new ArgumentException("Actual steps must be entered", "actualSteps);  ``
 
+Check if decimal:  
+``if (!decimal.TryParse(goalSteps, out goalStepsCount)) throw new ArgumentException("Goal must be numeric", "goalSteps);  ``
 
+``if (!decimal.TryParse(actualSteps, out actualStepsCount)) throw new ArgumentException("Actual must be numeric", "actualSteps);  ``
+
+``if (goalStepCount <= 0) throw new ArgumentException("Goal must be greater than 0", "goalSteps);  ``
+   
+"Use Method Overloading any time you need one operation to take different sets of input."  
+
+## Design by Contract  
+- What does a method expect?  
+- What does a method guarantee?  
+- What does the method maintain?  
 
 
 
