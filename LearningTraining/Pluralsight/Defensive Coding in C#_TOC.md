@@ -30,6 +30,7 @@
   - Invalid Inputs  
   - Guard Clause  
   - Assumptions  
+  - Bug Fixes  
 - Creating Unit Tests  
 - Using Test Explorer  
 - Generating Unit Tests  
