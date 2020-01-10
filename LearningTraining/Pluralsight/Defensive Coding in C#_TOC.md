@@ -26,6 +26,10 @@
 - I Don't Have Time to Test!  
 - Code First vs. Test First  
 - Defining Unit Test Cases  
+  - Valid Inputs  
+  - Invalid Inputs  
+  - Guard Clause  
+  - Assumptions  
 - Creating Unit Tests  
 - Using Test Explorer  
 - Generating Unit Tests  
