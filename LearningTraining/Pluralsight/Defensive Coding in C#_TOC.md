@@ -32,11 +32,19 @@
   - Assumptions  
   - Bug Fixes  
 - Creating Unit Tests  
+  - One Test Case  
+  - Structure (Arrange, Act, Assert)  
+  - Self Documented  
 - Using Test Explorer  
 - Generating Unit Tests  
 - Unit Tests and Exceptions  
 - Dependencies  
 - Summary  
+  - Structured  
+  - Self-documented  
+  - Automatic  
+  - Repeatable  
+  - TARDIS  
 
 ## Defending Your Methods Part 3: Returning Predictable Results  
 - Introduction  
