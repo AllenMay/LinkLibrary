@@ -67,7 +67,12 @@
 - Introduction  
 - Demo: Preparing the Sample Code  
 - Asserts  
+  - Invariants  
 - Anticipated Errors  
+  - Invalid User Entry  
+  - Invalid or Missing Data  
+  - Code Construct Issues  
+  - System Issues  
 - Unexpected Exceptions and a Global Exception Handler  
 - Exception Handling  
 - Summary  
