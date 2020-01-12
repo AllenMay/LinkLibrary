@@ -5,7 +5,11 @@
 ## Resources:  
 - [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring) - Wikipedia  
 - [Refactoring source code in Visual Studio Code](https://code.visualstudio.com/docs/editor/refactoring) - Microsoft  
+- Sample code that can be refactored: [TDD/lib/youtube.js](https://github.com/insanity54/TDD/blob/42a3978940a75ff288a74656da6c0ba0d9506fce/lib/youtube.js)
+
 
 ## [Extract Method](https://refactoring.com/catalog/extractFunction.html) 
  
 ## [Extract Variable](https://refactoring.com/catalog/extractVariable.html) 
+
+
