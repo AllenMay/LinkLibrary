@@ -5,7 +5,7 @@
 - Testable Code and Unit Tests  
 - Predictable Code  
 - Topics  
-
+---  
 ## Defending Your Methods Part 1  
 - Introduction  
 - Clean, Testable, and Predictable Methods  
@@ -14,13 +14,13 @@
 - Demo: Clean, Testable, and Predictable Methods  
 - Demo: Named Arguments  
 - Key Points  
-
+---  
 ## Defending Your Methods Part 2  
 - Introduction  
 - Validating Method Parameters  
 - Demo: Validating Method Parameters  
 - Key Points  
-
+---  
 ## Automated Code Testing  
 - Introduction  
 - I Don't Have Time to Test!  
@@ -45,7 +45,7 @@
   - Automatic  
   - Repeatable  
   - TARDIS  
-
+---  
 ## Defending Your Methods Part 3: Returning Predictable Results  
 - Introduction  
 - Method Results  
@@ -54,7 +54,7 @@
 - Demo: Returning Multiple Values  
 - Returning Null  
 - Summary  
-
+---  
 ## Defending Your Code Constructs  
 - Introduction  
 - Local Variable Declarations  
@@ -62,7 +62,7 @@
 - Switch Statements  
 - Enums  
 - Summary  
-
+---  
 ## Asserts, Errors, and Exceptions  
 - Introduction  
 - Demo: Preparing the Sample Code  
@@ -76,13 +76,26 @@
     -- -- Display message to the user  
     -- Validate with guard clauses  
     -- -- Display message to the user  
+    -- Proceed wiht a good default value  
   - Invalid or Missing Data  
+    -- Validate in coming data  
+    -- Proceed without the value  
+    -- Proceed with a good default value  
+    -- Display a message to the user  
   - Code Construct Issues  
+    -- Proceed wiht a default operation  
+    -- Ignore the issue  
+    -- Log it and display a message to the user  
   - System Issues  
+    -- Try again  
+    -- Proceed with an alternate operation  
+    -- Ignore the issue  
+    -- Log it and display a message to the user  
+    
 - Unexpected Exceptions and a Global Exception Handler  
 - Exception Handling  
 - Summary  
-
+---  
 ## Final Words  
 - Introduction  
 - Legacy Code  
