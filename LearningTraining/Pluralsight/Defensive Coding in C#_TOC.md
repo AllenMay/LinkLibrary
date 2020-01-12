@@ -73,9 +73,9 @@
     -- Use an appropriate control  
     -- Use built in data validation  
     -- Write a validation method  
-    -- -- Display message to the user  
+    --  == Display message to the user  
     -- Validate with guard clauses  
-    -- -- Display message to the user  
+    --  == Display message to the user  
     -- Proceed wiht a good default value  
   - Invalid or Missing Data  
     -- Validate in coming data  
@@ -91,7 +91,13 @@
     -- Proceed with an alternate operation  
     -- Ignore the issue  
     -- Log it and display a message to the user  
-    
+```
+  - Use restrictive controls and binding  
+  - Use validation methods  
+  - Use good defaults  
+  - Return Operation Result  
+  - Throw exceptions  
+```
 - Unexpected Exceptions and a Global Exception Handler  
 - Exception Handling  
 - Summary  
