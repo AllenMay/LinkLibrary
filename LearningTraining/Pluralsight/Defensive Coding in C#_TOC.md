@@ -70,6 +70,12 @@
   - Invariants  
 - Anticipated Errors  
   - Invalid User Entry  
+    -- Use an appropriate control  
+    -- Use built in data validation  
+    -- Write a validation method  
+    -- -- Display message to the user  
+    -- Validate with guard clauses  
+    -- -- Display message to the user  
   - Invalid or Missing Data  
   - Code Construct Issues  
   - System Issues  
