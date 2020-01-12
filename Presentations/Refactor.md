@@ -3,7 +3,8 @@
 >_"[Refactoring](https://refactoring.com/) is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."_ - Martin Fowler
 
 ## Resources:  
-- [Refactoring source code in Visual Studio Code](https://code.visualstudio.com/docs/editor/refactoring) - Microsoft
+- [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring) - Wikipedia  
+- [Refactoring source code in Visual Studio Code](https://code.visualstudio.com/docs/editor/refactoring) - Microsoft  
 
 ## [Extract Method](https://refactoring.com/catalog/extractFunction.html) 
  
