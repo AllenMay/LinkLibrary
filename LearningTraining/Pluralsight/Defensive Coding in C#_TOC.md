@@ -98,7 +98,7 @@
   - Return Operation Result  
   - Throw exceptions  
   - Notify the user only when necessary  
-```
+```  
 - Unexpected Exceptions and a Global Exception Handler  
   >_"To expect the unexpected shows a thoroughly modern intellect"_ - Oscar Wilde  
 - Exception Handling  
