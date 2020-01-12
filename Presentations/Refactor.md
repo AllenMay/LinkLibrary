@@ -8,6 +8,17 @@
 
 **From Microsoft's VSCode documentation:**  
 - [Refactoring source code in Visual Studio Code](https://code.visualstudio.com/docs/editor/refactoring) - Microsoft  
+  - [Code Actions = Quick Fixes and refactorings](https://code.visualstudio.com/docs/editor/refactoring#_code-actions-quick-fixes-and-refactorings)  
+  - [Refactoring actions](https://code.visualstudio.com/docs/editor/refactoring#_refactoring-actions)  
+    -- [Extract Method](https://code.visualstudio.com/docs/editor/refactoring#_extract-method)  
+    -- [Extract Variable](https://code.visualstudio.com/docs/editor/refactoring#_extract-variable)  
+  - [Rename symbol](https://code.visualstudio.com/docs/editor/refactoring#_rename-symbol)  
+  - [Keybindings for Code Actions](https://code.visualstudio.com/docs/editor/refactoring#_keybindings-for-code-actions)  
+  - [Extensions with refactorings](https://code.visualstudio.com/docs/editor/refactoring#_extensions-with-refactorings)  
+  - [Next steps](https://code.visualstudio.com/docs/editor/refactoring#_next-steps)  
+    -- [Intro Video - Code Editing](https://code.visualstudio.com/docs/introvideos/codeediting) - Watch an introductory video on code editing features.   
+    -- [Code Navigation](https://code.visualstudio.com/docs/editor/editingevolved) - VS Code lets you move quickly through your source code.  
+    -- [Debugging](https://code.visualstudio.com/docs/editor/debugging) - Learn about debugging with VS Code.  
 - [Debugging](https://code.visualstudio.com/docs/editor/debugging) - Microsoft  
 
 
