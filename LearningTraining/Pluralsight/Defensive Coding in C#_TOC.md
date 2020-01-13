@@ -133,7 +133,24 @@
   - Make the change  
   - Test pass  
 - For More Information  
+  - Clean Code: Writing Code for Humans  
+  - Code Contracts  
+  - Reactoring Fundamentals  
+  - Understanding and Eliminating Technical Debt  
+  - Mastering Visual Studio 2012 (Automated Code Testing Module)  
 - Summary  
+  - Clean Code  
+    - Improves Comprehension  
+    - Simplifies Maintenance  
+    - Reduces Bugs  
+  - Testable Code + Unit Tests  
+    - Improves Quality  
+    - Confirms Maintenance  
+    - Reduces Bugss  
+  - Validation + Exception Handling  
+    - Improves Predictability  
+    - More Consistent  
+    - Reduce Bugs 
 
 
 
