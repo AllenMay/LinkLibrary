@@ -108,6 +108,13 @@
   - Catch exceptions from guard clauses  
   - Catch exceptions from systems issues  
   - Define a global exception handler  
+  - __Best Practices:__  
+    -- Don't use the global exception handler  
+    -- Handle Locally  
+    -- Do Something  
+    -- Catch Specific Exceptions  
+    -- Log  
+    -- Don't try to catch every exception (Pokemon method)  
 - Summary  
 ---  
 ## Final Words  
