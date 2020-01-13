@@ -109,12 +109,17 @@
   - Catch exceptions from systems issues  
   - Define a global exception handler  
   - __Best Practices:__  
-    -- Don't use the global exception handler  
-    -- Handle Locally  
-    -- Do Something  
-    -- Catch Specific Exceptions  
-    -- Log  
-    -- Don't try to catch every exception (Pokemon method)  
+    - Don't use the global exception handler  
+    - Handle Locally  
+    - Do Something  
+    - Catch Specific Exceptions  
+    - Log  
+    - Don't try to catch every exception (Pokemon method)  
+    - Use 'Throw' to propogate  
+    - Additional topics:  
+       - Multiple catch blocks  
+       - Finally clause  
+       - Custom Exceptions  
 - Summary  
 ---  
 ## Final Words  
