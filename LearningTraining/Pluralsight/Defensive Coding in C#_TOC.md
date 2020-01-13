@@ -102,6 +102,12 @@
 - Unexpected Exceptions and a Global Exception Handler  
   >_"To expect the unexpected shows a thoroughly modern intellect"_ - Oscar Wilde  
 - Exception Handling  
+  - Use controls  
+  - Use code  
+  - Use Debug.Assert to check Invariants  
+  - Catch exceptions from guard clauses  
+  - Catch exceptions from systems issues  
+  - Define a global exception handler  
 - Summary  
 ---  
 ## Final Words  
