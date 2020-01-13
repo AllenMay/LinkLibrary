@@ -125,6 +125,13 @@
 ## Final Words  
 - Introduction  
 - Legacy Code  
+  - Evaluate assumptions  
+  - Write automated code tests  
+  - Tests pass  
+  - Refactor  
+  - Test pass  
+  - Make the change  
+  - Test pass  
 - For More Information  
 - Summary  
 
