@@ -147,6 +147,22 @@ __Improving Code Predictibility__
 - Code predictibility: __[Principle of Least Surprise](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)__  
 >More generally, the principle means that a component of a system should behave in a way that most users will expect it to behave; the behavior should not astonish or surprise users. - Wikipedia
 
+__What Should Happen If...?__  
+- The user enters invalid data?  
+- The user breaks a business rule?  
+- An operation suceeds, or fails?  
+- Something goes wrong?  
+
+__Line of Defense:__
+- User Interface  
+- Our Methods  
+
+
+__Guidelines and Summary__  
+- Improve Code Comprehension  
+- Improve Code Quality  
+- Improve Predictibility  
+
 
 
 
