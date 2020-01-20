@@ -1,6 +1,7 @@
 Jan 1, 2020  
 
 # Defensive Coding in C# by Deborah Kurata
+Resources: [https://github.com/DeborahK/CSharp-Defense](https://github.com/DeborahK/CSharp-Defense)  
 
 Learn techniques for strengthening your application’s defenses against the perils awaiting it in the real world. You will see how to write clean code, create unit tests, build clear methods, and prepare for the unexpected.
 
@@ -27,4 +28,37 @@ __What is Defensive Coding?__
 >
 >General quality – reducing the number of software bugs and problems.
 >Making the source code comprehensible – the source code should be readable and understandable so it is approved in a code >audit.
->Making the software behave in a predictable manner despite unexpected inputs or user actions. - Wikipedia
+>Making the software behave in a predictable manner despite unexpected inputs or user actions. - Wikipedia  
+
+__Defensive Coding Helps Us Improve:__
+- Code comprehension 
+- Code quality  
+- Code predicability  
+
+__Competing Goals:__
+- INCREASE CODE: Improving code predictability by __writing more validation and exception management code__  
+- REDUCE CODE: Improving code comprehension by __eliminating unnecessary code__  
+
+__Fitness for a Purpose__  
+__Risk vs. Defenses__  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
