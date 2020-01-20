@@ -44,7 +44,7 @@ __Risk vs. Defenses__
 
 ---
 
-## Course Overview  
+__Course Overview__
 
 __Strengthening our defenses__
 - Code comprehension  
@@ -58,6 +58,35 @@ __Handling nulls__
 __Returning predictable results__  
 
 __Managing exceptions__  
+
+---  
+## Strengthening Our Codes Defenses  
+
+__Evaluating Weaknesses__
+- Identify Potential Weaknesses  
+  - Code was Copy/paste  
+  - Presentation logic mixed with business logic  
+  - Difficult to unit test  
+  - No validation  
+  - No exception handling  
+  
+__Code comprehension__  
+- Easy to read  
+- Have a clear intent  
+- Simple  
+- Thoughtful  
+
+>Refactoring is the process of restructuring code, altering it's organization without changing its behavior.
+
+
+
+
+
+
+
+
+
+
 
 
 
