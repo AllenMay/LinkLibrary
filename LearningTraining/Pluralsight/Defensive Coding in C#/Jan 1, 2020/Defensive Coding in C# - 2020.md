@@ -105,9 +105,47 @@ __Separation of concerns__
   - __Business Logic or Services Layer__ - for the logical calcualtions and operations of the application  
   - __Data layer__ - for the collection of data and interface to the data stores  
 
+__Don't Repeat Yourself__  
 
 
+__Improving Code Quality__  
+- Is the code pleasant to work with?  
+- Does it work as expected?  
+- Does it meet the requirements?  
 
+__Checks for quality__  
+- Code reviews  
+- Code execution  
+- Unit testing  
+
+__Visual Studio Unit Testing Options__  
+- MS Test  
+- NUnit  
+- XUnit  
+
+__Unit Testing Steps__  
+- Define test cases  
+- Create a unit test for each case  
+- Execute the tests  
+- RE-execute tests  
+
+__Defining Test Cases__  
+- Valid inputs  
+- Data entry rules  
+- Edge cases  
+- Invalid inputs  
+- Possible exceptions  
+- Empty and null  
+
+>// __Arrange__ - Set up variables and define expected results  
+>// __Act__ - Execute the method to test   
+>// __Assert__ - We assert the results of the test match the expect results  
+
+NOTE: You will find lots of repeated code in unit tests because unit tests prefer clarity of DRY. 
+
+__Improving Code Predictibility__  
+- Code predictibility: __[Principle of Least Surprise](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)__  
+>More generally, the principle means that a component of a system should behave in a way that most users will expect it to behave; the behavior should not astonish or surprise users. - Wikipedia
 
 
 
