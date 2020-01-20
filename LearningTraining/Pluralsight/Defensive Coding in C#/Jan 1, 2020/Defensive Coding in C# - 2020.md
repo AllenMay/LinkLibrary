@@ -44,6 +44,35 @@ __Risk vs. Defenses__
 
 ---
 
+## Course Overview  
+
+__Strengthening our defenses__
+- Code comprehension  
+- Code quality  
+- Code predictability  
+
+__Validating method arguments__  
+
+__Handling nulls__  
+
+__Returning predictable results__  
+
+__Managing exceptions__  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
