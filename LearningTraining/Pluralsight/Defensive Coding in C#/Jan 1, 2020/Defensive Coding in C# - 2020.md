@@ -76,10 +76,28 @@ __Code comprehension__
 - Simple  
 - Thoughtful  
 
->Refactoring is the process of restructuring code, altering it's organization without changing its behavior.
+>__Refactoring__ is the process of restructuring code, altering it's organization without changing its behavior.
 
+__Improving Code Comprehension__  
+- Single responsibility principle  
+- Separation of concerns  
+- Don't repeat yourself (DRY)  
 
+__Single Responsibility Principle__  
+- Single focus  
 
+__DEMONSTRATION:__  
+Show simple example of exctracting code into single focus tasks.  
+- Calculate profit margin  
+- Check the profit margin  
+- Save the new price information  
+
+__Naming Convention for exctracted code__
+- Since methods perform __actions__ the method name shoudl eb a __Verb__ with and option subject that __Verb__ is acting on.
+  - Examples:
+    - CalculateMargin
+    - CheckMinimumMargin
+    - SavePrice
 
 
 
