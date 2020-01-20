@@ -1,3 +1,7 @@
+May 8, 2014
+
+# Table of Contents - Defensive Coding in C#  
+
 ## Introduction  
 - Introduction  
 - What is Defensive Coding?  
