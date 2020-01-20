@@ -99,7 +99,11 @@ __Naming Convention for exctracted code__
     - CheckMinimumMargin
     - SavePrice
 
-
+__Separation of concerns__  
+- Separating an application into distinct parts where each part addresses a specific concern or aspect of the application. This is often done with __domains__ or __layers__.  
+  - __Presentation layer__ - for user interface and visual appearance  
+  - __Business Logic or Services Layer__ - for the logical calcualtions and operations of the application  
+  - __Data layer__ - for the collection of data and interface to the data stores  
 
 
 
