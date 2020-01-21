@@ -163,7 +163,9 @@ __Guidelines and Summary__
 - Improve Code Quality  
 - Improve Predictibility  
 
+---  
 
+__Validating Method Arguments__  
 
 
 
