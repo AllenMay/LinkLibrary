@@ -165,13 +165,43 @@ __Guidelines and Summary__
 
 ---  
 
-__Validating Method Arguments__  
+## Validating Method Arguments  
 
+__Refactoring Our Method__  
+- Helper method  
+- Method overloading  
+- Guard class  
 
+__Helper Method__  
+- Move all the guard clauses into a dedicated helper method  
+- Each helper method validates one of the arguments, checking all of its business rules and throwing an exception if the argument is not valid  
 
+__Method Overloading__  
+- Separate the guard clauses from the actual method using method overloading  
+- Method overloading are multiple methods using the same method name but a different set of method parameters     
+__Guard Class__  
+- The Guard class has it's own set of generalized validation methods. Unlike the helper methods which focus on defining business rules for a specific argument  
+- The guard class contains a set of more generalized methods that can be reused for any validation in the application  
 
-
-
+__Guidelines and Summary__  
+- Define a clear method signature  
+  - A good method name use a [verb] followed by an optional [subject] that the verb is acting on  
+- Define good parameter names that describes the data type of that parameter
+- Carefully consider parameter order  
+  - Start with the primary values  
+  - List remaining parameters in a logical and predictable order  
+  - Then include and flags or configuration parameters  
+  - Add optional parameters last  
+- Surrounding the operations with conditionals  
+- Fail fast with guard clauses  
+  - Fail fast by throwing an exception  
+  - Protected from invalid values  
+  - Provide validation information  
+  - They leave the operation unobsucured  
+- Refactor  
+  - Build a set of helper methods
+  - OR Use method overloading  
+  - OR build a guard class  
 
 
 
