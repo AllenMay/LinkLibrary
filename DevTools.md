@@ -1,5 +1,8 @@
 # DevTools  
 
+This is [an example] [snippets] reference-style link.
+
+
 ## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Google Developers  
 - [Local Overrides](https://developers.google.com/web/updates/2018/01/devtools#overrides)  
 
@@ -21,7 +24,7 @@
 
 - [Console cheat sheet for JavaScript developers](https://levelup.gitconnected.com/console-cheat-sheet-for-javascript-developers-21f0c49604d4) by [Javascript Jeep](https://levelup.gitconnected.com/@jagathishsaravanan) (11/2019)
 
-
+[snippets]
 ## Snippets
 ---
     // LIST SELECT VALUES
