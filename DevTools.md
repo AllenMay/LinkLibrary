@@ -1,5 +1,9 @@
 # DevTools  
 
+## Table of contents
+- [Chrome DevTools](#chrome-devtools---google-developers)
+- [Umar Hansa - "Dev Tools" Newsletter](#umar-hansa---dev-tools-newsletter)
+
 ## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Google Developers  
 - [Local Overrides](https://developers.google.com/web/updates/2018/01/devtools#overrides)  
 
