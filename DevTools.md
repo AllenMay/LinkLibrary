@@ -1,6 +1,19 @@
-# DevTools  
+% True Happiness
 
-This is [an example] [snippets] reference-style link.
+Introduction
+------------
+
+Many have posed the question of true happiness.  In this blog post we propose to
+solve it.
+
+First Attempts
+--------------
+
+The earliest attempts at attaining true happiness of course aimed at pleasure. 
+Soon, though, the downside of pleasure was revealed.
+
+
+# DevTools  
 
 
 ## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Google Developers  
@@ -24,7 +37,6 @@ This is [an example] [snippets] reference-style link.
 
 - [Console cheat sheet for JavaScript developers](https://levelup.gitconnected.com/console-cheat-sheet-for-javascript-developers-21f0c49604d4) by [Javascript Jeep](https://levelup.gitconnected.com/@jagathishsaravanan) (11/2019)
 
-[snippets]
 ## Snippets
 ---
     // LIST SELECT VALUES
