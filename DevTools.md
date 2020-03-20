@@ -1,20 +1,4 @@
-% True Happiness
-
-Introduction
-------------
-
-Many have posed the question of true happiness.  In this blog post we propose to
-solve it.
-
-First Attempts
---------------
-
-The earliest attempts at attaining true happiness of course aimed at pleasure. 
-Soon, though, the downside of pleasure was revealed.
-
-
 # DevTools  
-
 
 ## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Google Developers  
 - [Local Overrides](https://developers.google.com/web/updates/2018/01/devtools#overrides)  
