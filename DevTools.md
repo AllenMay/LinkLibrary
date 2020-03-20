@@ -5,6 +5,87 @@
 
 ## Snippets
 ---
+    // LIST SELECT VALUES
+    $("select").each(function(){
+        console.log($(this).attr('value'));
+    });
+
+    // LIST SELECT ID's
+    $("select").each(function(){
+        console.log($(this).attr('id'));
+    });
+
+    // LIST TEXT FROM SELECTED OPTIONS 
+    $("select option:selected").each(function(){
+        console.log($(this).text());
+    });
+
+    //LIST ID/VALUE/TEXT OF ALL SELECT ELEMENTS
+    $("select").each(function(){
+        console.log($(this).attr('id') + ' = ' + $('option:selected',this).val() + " = " +$('option:selected',this).text());
+    });
+
+    // LIST ID/VALUE OF ALL SELECT ELEMENTS
+    $("select option:selected").each(function(){
+        console.log($(this).attr('id') + ' = ' + $(this).val() );
+    });
+
+    // LIST HREF LINK WITH THE TITLE OF THE SPAN
+    $("a").each(function(){
+        console.log($(this).attr('href') + ' = ' + $("span",this).attr("title") );
+    });
+
+
+    // 7/22/2019
+    // LIST SELECTED PARAMETERS - COPY FRIENDLY
+    item = "";
+    $("select").each(function(){
+        item = item + $(this).attr('id') + ' = ' + $('option:selected',this).val() + " = " +$('option:selected',this).text()+"\n";
+    });
+    console.log(item);
+
+    // 7/22/2019
+    // LIST SELECTED PARAMETERS - COPY FRIENDLY
+    item = "R: " + $('h2').text() + "\nPARAMETERS USED TO RUN R:\n";
+    $("select").each(function(){
+        item = item + "\t"+$(this).attr('id') + ": " +$('option:selected',this).text()+"\n";
+    });
+    item = item.replace('PId','Product');
+    item = item.replace('RPSystems_0__IpmPSystemId','P System');
+    item = item.replace('RType','R Type');
+    item = item.replace('RPStartDate','R P Start Date');
+    item = item.replace('RPEndMonth','R P End Month');
+    item = item.replace('RPEndYear','R P End Year');
+    item = item.replace('RRunMonth','R P');
+    item = item.replace('RRunYear','R Year');
+    item = item.replace('HRunOut','HC Run Out');
+    item = item.replace('HMMYear','HM Year');
+    console.log(item);
+
+    // 7/23/2019
+    // GET ALL CONFIG
+    item = "R: " + $('h2').text() + "\nPARAMETERS USED TO RUN R:\n";
+    $("div.inputGroup div select").each(function(){
+        item = item + "\t"+$(this).attr('id') + ": " +$('option:selected',this).text()+"\n";
+    });
+    // item = item.replace('PId','Product');
+    // item = item.replace('RPSystems_0__IpmPSystemId','P System');
+    // item = item.replace('RType','R Type');
+    // item = item.replace('RPStartDate','R P Start Date');
+    // item = item.replace('RPEndMonth','R P End Month');
+    // item = item.replace('RPEndYear','R P End Year');
+    // item = item.replace('RRunMonth','R P');
+    // item = item.replace('RRunYear','R Year');
+    // item = item.replace('HRunOut','H C Run Out');
+    // item = item.replace('HMYear','H M Year');
+    console.log(item);
+
+
+
+    $("form input:checkbox").each(function(){
+        console.log($(this).attr('value'));
+        });
+---
     // PLUS ONE MINUS ONE QUALITY REPORT
     $("#ProductId option[value='100000']").attr("selected","selected").change();
 
