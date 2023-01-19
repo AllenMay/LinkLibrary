@@ -1,4 +1,7 @@
 UX Checklists For Interface Designers, with just a few wonderful resources kindly released by the community for everyone to use.
+Vitaly Friedman January 2023 
+Source:  
+https://www.linkedin.com/posts/vitalyfriedman_ux-checklists-design-activity-7017041656025595904-sII5?utm_source=share&utm_medium=member_desktop
 
 [Checklist.Design](https://www.checklist.design/), an ever-growing collection of best design practices, all gathered in one single place. Curated by George Hatzis  
 
