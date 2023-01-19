@@ -1,9 +1,8 @@
 
-Everyone's talking about #ChatGPT. But 90% of you are missing out on the AI revolution. Here are the top AI tools you NEED to know about.
+Everyone's talking about #ChatGPT. But 90% of you are missing out on the AI revolution. Here are the top AI tools you NEED to know about.  
 [LinkedIn post from Sunil Ghimire](https://www.linkedin.com/posts/ghimiresunil_chatgpt-activity-7021128204388057088-0jf5?utm_source=share&utm_medium=member_desktop)  
 
-1. Krisp: Krisp's AI removes background voices, noises, and echo from your calls, giving you peace of call
-Link: https://krisp.ai/
+1. [Krisp](https://krisp.ai/): Krisp's AI removes background voices, noises, and echo from your calls, giving you peace of call. 
 
 2. Beatoven: Create unique royalty-free music that elevates your story
 Link: https://www.beatoven.ai/
