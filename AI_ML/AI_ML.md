@@ -79,9 +79,3 @@ Link: https://inkforall.com/
 
 26. Thundercontent: Generate Content with AI
 Link: https://lnkd.in/djFxMZsZ
-
-That’s wrap!!
-
-What cool AI tools would you add to this list? 
-
-👇 Drop your suggestions in the replies below 👇
