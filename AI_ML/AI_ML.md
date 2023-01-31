@@ -1,6 +1,10 @@
+Tools for finding AI resources:
+
+1. [Theres An AI for That](https://theresanaiforthat.com/): Comprehensive database of AIs available for every task  
+
 
 Everyone's talking about #ChatGPT. But 90% of you are missing out on the AI revolution. Here are the top AI tools you NEED to know about.  
-[LinkedIn post from Sunil Ghimire](https://www.linkedin.com/posts/ghimiresunil_chatgpt-activity-7021128204388057088-0jf5?utm_source=share&utm_medium=member_desktop)  
+[LinkedIn post from Sunil Ghimire](https://www.linkedin.com/posts/ghimiresunil_chatgpt-activity-7021128204388057088-0jf5)  
 
 1. [Krisp](https://krisp.ai/): Krisp's AI removes background voices, noises, and echo from your calls, giving you peace of call  
 
@@ -42,14 +46,12 @@ Everyone's talking about #ChatGPT. But 90% of you are missing out on the AI revo
 
 20. [Looka](https://looka.com/): Design your own beautiful brand  
 
-21. [theresanaiforthat](https://theresanaiforthat.com/): Comprehensive database of AIs available for every task  
+21. [Synthesia](https://www.synthesia.io/): Create AI videos by simply typing in text  
 
-22. [Synthesia](https://www.synthesia.io/): Create AI videos by simply typing in text  
+22. [descript](https://www.descript.com/home-3): New way to make video and podcasts  
 
-23. [descript](https://www.descript.com/home-3): New way to make video and podcasts  
+23. [Otter](https://otter.ai/): Capture and share insights from your meetings  
 
-24. [Otter](https://otter.ai/): Capture and share insights from your meetings  
+24. [Inkforall](https://inkforall.com/): AI content (Generation, Optimization, Performance)  
 
-25. [Inkforall](https://inkforall.com/): AI content (Generation, Optimization, Performance)  
-
-26. [Thundercontent](https://thundercontent.com/): Generate Content with AI  
+25. [Thundercontent](https://thundercontent.com/): Generate Content with AI  
