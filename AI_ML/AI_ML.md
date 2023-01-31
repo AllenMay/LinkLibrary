@@ -1,8 +1,8 @@
-Tools for finding AI resources:
+## Tools for finding AI resources:
 
 1. [Theres An AI for That](https://theresanaiforthat.com/): Comprehensive database of AIs available for every task  
 
-
+## LinkedIn Feed 
 Everyone's talking about #ChatGPT. But 90% of you are missing out on the AI revolution. Here are the top AI tools you NEED to know about.  
 [LinkedIn post from Sunil Ghimire](https://www.linkedin.com/posts/ghimiresunil_chatgpt-activity-7021128204388057088-0jf5)  
 
