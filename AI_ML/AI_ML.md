@@ -1,6 +1,10 @@
 ## Tools for finding AI resources:
 
-1. [Theres An AI for That](https://theresanaiforthat.com/): Comprehensive database of AIs available for every task  
+1. [Theres An AI for That](https://theresanaiforthat.com/): Comprehensive database of AIs available for every task - Added 1/31/2023
+
+## AI Resources
+
+1. [Social Comments GPT](https://social-comments-gpt.com/): A chrome extension that creates engaging comments on social media, powered by OpenAI's ChatGPT. - Added 1/31/2023
 
 ## LinkedIn Feed 
 Everyone's talking about #ChatGPT. But 90% of you are missing out on the AI revolution. Here are the top AI tools you NEED to know about.  
