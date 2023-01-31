@@ -5,6 +5,15 @@
 ## AI Resources
 
 1. [Social Comments GPT](https://social-comments-gpt.com/): A chrome extension that creates engaging comments on social media, powered by OpenAI's ChatGPT. - Added 1/31/2023
+2. [GFP-GAN](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV): 
+Restore old photos using our photo restoration application, built with Baseten and powered by the GFP-GAN model - Added 1/31/2023
+3. [Notion AI](https://www.notion.so/product/ai): Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment your creativity. Like magic! - Added 1/31/2023
+4. [Copy AI](https://www.copy.ai/): An AI-powered copywriter that generates high-quality copy for your business - Added 1/31/2023
+5. [Lumen5](https://lumen5.com/): The Lumen5 is a free online video-making platform that has various tools that allow you to make videos effortlessly - Added 1/31/2023
+6. [Lalal AI](https://www.lalal.ai/): Audio Stem Splitter - Added 1/31/2023
+7. 
+
+
 
 ## LinkedIn Feed 
 Everyone's talking about #ChatGPT. But 90% of you are missing out on the AI revolution. Here are the top AI tools you NEED to know about.  
