@@ -7,6 +7,30 @@ A curated list of awesome MLOps tools.
 
 1. [Theres An AI for That](https://theresanaiforthat.com/): Comprehensive database of AIs available for every task - Added 1/31/2023
 
+## Productivity
+1. [Docktopus](https://www.decktopus.com/) AI: Create compelling slides for your presentations with AI
+2. [Promptpal AI](https://promptpal.net): Helps you discover the best AI prompts
+3. [Quinvio AI](https://quinv.io/ai): Create video presentations using AI
+4. [Ask Your PDF](https://aksyourpdf.com): An AI Chatbot that helps you interact with any PDF document
+5. [Supernormal AI](https://supernormal.com/): An AI-powered meeting recorder
+6. [Suggesty AI](https://chrome.google.com/webstore/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh?ref=producthunt): Get human-like answeres to your Google searches with GPT-3 (Chrome extension)
+7. [ChatGPT Sidebar](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb): ChatGPT Chrome extension that can be used on any website (Chrome extension)
+8. [MarcBot](https://t.me/marcbot): An AI assistant that lives inside Telegram
+9. Motion AI: Easily build chatbots to do anything on any platform  
+  - This has been aquired by Hubspot: [HubSpot Chatbot builder](https://www.hubspot.com/products/crm/chatbot-builder)
+11. [Roam around](https://www.roamaround.io/): Plan your trips through AI travel planner
+12. [Beautiful](https://www.beautiful.ai/): Generative AI presentation app for the workplace
+13. [Quotify](https://quotifymyworld.netlify.app/): AI-powered tool to extract meaningful quotes from books and articles
+14. [Harvey AI](https://www.harvey.ai/): An AI-powered legal advisor
+15. [Bearly AI](https://bearly.ai/): An AI tool to read, write and create content
+16. [Scispace AI](https://typeset.io/): Your AI research assistant to save hours per day
+17. [Hints AI](https://hints.so/): GPT based AI assistant helps you to use productivity tools more efficiently
+18. [Monday.com](https://monday.com/): Build your ideal workflow int 200+ customizable templates using AI
+19. [Base64 AI](https://base64.ai/): Extract text, data, photos, and more from all type of docs using AI
+20. [AI Article Writer](https://copymatic.ai/): Generate articles and blog posts with AI in seconds
+21. [Engage AI](https://chrome.google.com/webstore/detail/engage-ai-chatgpt-comment/nelhhkchoapcbpcgpmmiahfkcdhgecaf): Use AI to write insightful comments on LinkedIn
+22. [Google Duplex](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html): An AI-assistant that can talk to you on your phone
+
 ## AI Resources
 
 1. [Social Comments GPT](https://social-comments-gpt.com/): A chrome extension that creates engaging comments on social media, powered by OpenAI's ChatGPT. - Added 1/31/2023
@@ -17,8 +41,6 @@ Restore old photos using our photo restoration application, built with Baseten a
 5. [Lumen5](https://lumen5.com/): The Lumen5 is a free online video-making platform that has various tools that allow you to make videos effortlessly - Added 1/31/2023
 6. [Lalal AI](https://www.lalal.ai/): Audio Stem Splitter - Added 1/31/2023
 7. 
-
-
 
 ## LinkedIn Feed 
 Everyone's talking about #ChatGPT. But 90% of you are missing out on the AI revolution. Here are the top AI tools you NEED to know about.  
